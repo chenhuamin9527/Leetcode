@@ -1,7 +1,0 @@
-[
-{
-  "directory": "F:/Code/Leetcode/c_test/build",
-  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\c_test.dir\\main.cpp.obj -c F:\\Code\\Leetcode\\c_test\\main.cpp",
-  "file": "F:/Code/Leetcode/c_test/main.cpp"
-}
-]
